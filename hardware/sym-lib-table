@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name 480-37-1000)(type Legacy)(uri ${KIPRJMOD}/Libs/Schematic/480-37-1000.lib)(options "")(descr ""))
+)

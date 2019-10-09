@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name 480-37-1000)(type Legacy)(uri ${KIPRJMOD}/Libs/Footprints/480-37-1000.mod)(options "")(descr ""))
+  (lib (name Logo)(type KiCad)(uri ${KIPRJMOD}/Libs/Logo)(options "")(descr ""))
+  (lib (name Footprints)(type KiCad)(uri ${KIPRJMOD}/Libs/Footprints)(options "")(descr ""))
+)
