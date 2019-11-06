@@ -29,10 +29,12 @@ The actual storage is provided by an on-board Micro SD card, to the host it will
 
 * **Design:** Complete.
 * **Manufacture:** In progress.
+  * 06-Nov-2019 - PCB's arrived, build and test started.
 
 ### Firmware
 
 * **Development:** Started.
+  * 06-Nov-2019 - Code based on development board is running correctly, port to actual hardware underway.
 
 ## License
 
